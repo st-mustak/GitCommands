@@ -1,0 +1,13 @@
+"cd C:"                   > change to C Drive
+"cd D:"                   > change to D Drive
+"ls"                      > List of all items of current directory
+"touch filename"          > create a file in current directory
+"mkdir directory-name"    > Creat a directory in current directory
+"git init"                > Initialise Git
+"git status"              > get status of current git folder
+"git add filename"        > add selected file to git
+"git add ."               > add all files to git
+"git commit -m "comment"" > commit all the changes with detailed comments
+
+
+
