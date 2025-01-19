@@ -8,6 +8,14 @@
 "git add filename"        > add selected file to git
 "git add ."               > add all files to git
 "git commit -m "comment"" > commit all the changes with detailed comments
+"vi filename"             > open the file in vim editor
+
+Some Vim Editor Commands: 
+"i" after entering a file > add text to file
+"esc button"              > text edit mode stopped
+":wq"                     > save and quit
+":q!"                     > quit without save
+
 
 
 
