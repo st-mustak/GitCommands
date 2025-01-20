@@ -15,3 +15,41 @@ Some Vim Editor Commands:
 "esc button"              > text edit mode stopped
 ":wq"                     > save and quit
 ":q!"                     > quit without save
+
+
+
+"git log"                 > all the commit details with author and date time.
+"rm -rf filename"         > Remove a file from git
+"git reset <hash id of 
+                 commit"  > all the commit after the entered hash id of commit deleted.
+
+"git stash pop"           > *********
+"git stash"               > saving all the uncommited changes without commit
+"git stash clear"         > delete all the stash saved
+
+Adding Git to Remote Repository::
+
+"git remote add origin <rep. address> " > first step to connect git file with remote server
+"git remote -v"                         > show all the url attached with the folder
+"git push origin master"                > pushing local master repository to remote repository
+
+
+Git Branch::
+
+"git branch <branch-name>"               > create new branch
+"git checkout <branch-name>"             > switch to branch
+"git merge <branch-name>"                > Merge branch with master
+
+"git clone <url of remove reps."        > copy a file of remote repository to local device
+
+Fork: copy a project to own github repository
+
+Upstrim Url : Original Url of the project from where we fork
+
+"git remote add upstream <upstream url>" > adding upstream url
+"git remote -v"                          > showing all the urls likned to current git project
+
+
+----------PULL REQUEST----------
+
+
