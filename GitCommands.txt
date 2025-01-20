@@ -15,7 +15,3 @@ Some Vim Editor Commands:
 "esc button"              > text edit mode stopped
 ":wq"                     > save and quit
 ":q!"                     > quit without save
-
-
-
-
